@@ -1,11 +1,11 @@
-# MediNet: Unified Healthcare Management System
+# HealthSync: Smart Healthcare Management System
 
-MediNet is a unified healthcare management system designed to streamline operations and improve collaboration among healthcare professionals. With specialized portals for doctors, receptionists, patients, and pharmacists, MediNet enables efficient management of appointments, medical records, prescriptions, and more.
+**HealthSync** is an intuitive and efficient healthcare management platform designed to connect doctors, patients, pharmacists, and receptionists in one seamless environment. It simplifies appointment scheduling, medical record handling, prescription tracking, billing, and communication—helping healthcare providers deliver better care while empowering patients with easy access to their health information.
 
 ## Table of Contents
 
 - [Features](#features)
-- [Usage](#usage)
+- [How It Works](#how-it-works)
 - [Portals](#portals)
   - [Doctor Portal](#doctor-portal)
   - [Receptionist Portal](#receptionist-portal)
@@ -15,60 +15,50 @@ MediNet is a unified healthcare management system designed to streamline operati
 
 ## Features
 
-MediNet offers the following features:
+HealthSync offers a comprehensive set of tools for healthcare management:
 
-- Appointment scheduling and management for patients and doctors.
-- Electronic health records (EHR) management for storing and accessing patient medical history.
-- Prescription management, including issuing and tracking prescriptions.
-- Billing and invoicing for healthcare services rendered.
-- Real-time collaboration and communication between healthcare professionals.
+- **Appointment Scheduling** – Effortlessly book and manage appointments.
+- **Medical Records** – Securely store and access patient health information.
+- **Prescription Management** – Issue, track, and refill prescriptions.
+- **Billing & Invoicing** – Simplify payments and insurance-related processes.
+- **Collaboration Tools** – Enable real-time communication between healthcare providers and patients.
 
-## Usage
+## How It Works
 
-To use MediNet, follow these instructions:
-
-1. Open the application in your web browser.
-2. Log in to the appropriate portal based on your role (doctor, receptionist, patient, pharmacist).
-3. Navigate through the portal's functionalities to manage appointments, access medical records, issue prescriptions, etc.
-4. Collaborate with other users within the system to provide efficient healthcare services.
+1. Access the platform through a web browser.
+2. Select your role (Doctor, Receptionist, Patient, or Pharmacist) and log in.
+3. Explore features designed for your specific needs.
+4. Collaborate with others to deliver effective healthcare services.
 
 ## Portals
 
 ### Doctor Portal
-
-The Doctor Portal provides doctors with the following functionalities:
-
 - View and manage appointments.
-- Access and update patient medical records.
-- Issue prescriptions and view prescription history.
+- Access patient health records.
+- Issue and review prescriptions.
 
 ### Receptionist Portal
-
-The Receptionist Portal offers receptionists the following functionalities:
-
-- Schedule and manage appointments for patients and doctors.
-- Handle patient registrations and check-ins.
-- Manage patient billing and invoices.
+- Schedule and coordinate appointments.
+- Register and check-in patients.
+- Handle billing and invoices.
 
 ### Patient Portal
-
-The Patient Portal allows patients to perform the following tasks:
-
-- Schedule appointments with doctors.
-- Access their medical records and prescription history.
-- Communicate with healthcare providers and request prescription refills.
+- Book appointments with doctors.
+- View medical history and prescriptions.
+- Communicate with healthcare providers.
 
 ### Pharmacist Portal
-
-The Pharmacist Portal provides pharmacists with the following functionalities:
-
-- Receive and fulfill prescription orders.
-- Maintain inventory and manage stock levels.
+- Receive and process prescriptions.
+- Manage inventory and stock.
 - Track prescription history and interactions.
 
 ## Contact
 
-For questions, feedback, or support, contact the project maintainer:
+For questions, feedback, or support, reach out to:
 
-VALLAMKONDA MEGHA SAI LALITH
-Email: mslalith17@gmail.com 
+**Manikanti Abhinay Babu**  
+Email: [manikantiabhinay@gmail.com](mailto:manikantiabhinay@gmail.com)
+
+---
+
+**HealthSync** – Empowering healthcare through technology.
