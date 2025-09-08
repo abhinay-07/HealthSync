@@ -1,6 +1,6 @@
 # HealthSync: Smart Healthcare Management System
 
-**HealthSync** is an intuitive and efficient healthcare management platform designed to connect doctors, patients, pharmacists, and receptionists in one seamless environment. It simplifies appointment scheduling, medical record handling, prescription tracking, billing, and communication—helping healthcare providers deliver better care while empowering patients with easy access to their health information.
+**HealthSync** is an intuitive and efficient healthcare management platform designed to connect doctors, patients, pharmacists, and receptionists in one seamless environment. It simplifies appointment scheduling, medical record handling, prescription tracking, billing, and communication - helping healthcare providers deliver better care while empowering patients with easy access to their health information.
 
 ## Table of Contents
 
